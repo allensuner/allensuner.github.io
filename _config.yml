@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Allen's Blog
+email: allensuner@gmail.com
+# Owner/author information
+owner:
+  name:           Allen Suner
+  avatar:         avatar.jpg
+  bio:            "Software Developer & Teacher"
+  email:          allensuner@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook: "allen.suner.9"
+  github: "allensuner"
+  stackexchange:  
+  linkedin: "allen-suner"   
+  instagram:      
+  flickr:         
+  tumblr:
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:
+
+description: "A blog about tech (mostly)"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: #twitter_username
+github_username:  allensuner
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock      
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Seattle
+future:      false  # publish future dated posts --  true, false (default) 
+
+# Amount of post to show on home page
+paginate: 5
