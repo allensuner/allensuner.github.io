@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Allen's Blog
+title: allen++;
 email: allensuner@gmail.com
 # Owner/author information
 owner:
   name:           Allen Suner
   avatar:         avatar.jpg
-  bio:            "Software Developer & Teacher"
+  bio:            "Software Developer"
   email:          allensuner@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -30,12 +30,13 @@ owner:
   instagram:      
   flickr:         
   tumblr:
+  soundcloud: "acidmuziq"
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
 description: "A blog about tech (mostly)"
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: allensuner.github.io
 twitter_username: #twitter_username
 github_username:  allensuner
 
