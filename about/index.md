@@ -27,5 +27,16 @@ ago I became a Software Engineer at Expedia Inc. specializing in making stuff
 go by itself. At work, I write software to automate tasks that developers and engineers 
 usually have to do manually.
 
-Recently, I have accepted an C# programming instructor position at Bellevue College 
-and can finally pursue my passion of education.
+When I'm not working for the "proverbial" man, I plan extravagant vacations around 
+the world I will never take. However, on the rare occassion I have traveled 
+internationally, my adventures brought me to the Middle East. Right before I started 
+my job at Expedia, I traipsed around Israel, Jordan, and Turkey by myself on a quest 
+to snap all of the most tourist-y photos I could. Look - here are some now!
+
+<figure class="half">
+	<img src="/images/camels.jpg" alt="Camels chillin' in Eilat">
+	<img src="/images/sultan_ahmet.jpg" alt="The blue mosque in Istanbul">   
+	<img src="/images/jordan_3.jpg" alt="Jordanian desert in the snow">
+	<img src="/images/petra.jpg" alt="The Grand Treasury in Petra">
+	<figcaption>Bet you didn't think it could snow in the desert huh?</figcaption>
+</figure>
