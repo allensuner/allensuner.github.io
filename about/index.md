@@ -7,7 +7,7 @@ comments: false
 modified: 2017-02-06
 ---
 Hey - I'm Allen Suner, a software engineer and teacher from Seattle! In the wild 
-you can find me programming, reading comic books listening to old house records, 
+you can find me programming, reading comic books, listening to old house records, 
 or playing final fantasy.
 
 What's that you ask? Why did you choose to waste your time writing words that most 
@@ -23,7 +23,7 @@ So here we are - nearly a month later, and I still know little to nothing about 
 
 When I'm not stumbling my way through web design, I promise I am a half-way decent 
 programmer. I studied Computer Science at Western Washington University. Two years 
-ago I became a Software Engineer at Expedia Inc. specializing in making stuff 
+ago, I became a Software Engineer at Expedia Inc., specializing in making stuff 
 go by itself. At work, I write software to automate tasks that developers and engineers 
 usually have to do manually.
 
@@ -34,9 +34,9 @@ my job at Expedia, I traipsed around Israel, Jordan, and Turkey by myself on a q
 to snap all of the most tourist-y photos I could. Look - here are some now!
 
 <figure class="half">
-	<img src="/images/camels.jpg" alt="Camels chillin' in Eilat">
-	<img src="/images/sultan_ahmet.jpg" alt="The blue mosque in Istanbul">   
-	<img src="/images/jordan_3.jpg" alt="Jordanian desert in the snow">
-	<img src="/images/petra.jpg" alt="The Grand Treasury in Petra">
+	<img src="/images/camels.jpg" title="Camels chillin' in Eilat" alt="Camels chillin' in Eilat">
+	<img src="/images/sultan_ahmet.jpg" title="The Sultan Ahmed mosque in Istanbul" alt="The Sultan Ahmed mosque in Istanbul">   
+	<img src="/images/jordan_3.jpg" title="Jordanian desert in the snow" alt="Jordanian desert in the snow">
+	<img src="/images/petra.jpg" title="The Grand Treasury in Petra" alt="The Grand Treasury in Petra">
 	<figcaption>Bet you didn't think it could snow in the desert huh?</figcaption>
 </figure>
