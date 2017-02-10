@@ -4,7 +4,7 @@ title: about_me
 image:
   feature: feature.jpg
 comments: false
-modified: 2017-02-06
+modified: 2017-02-09
 ---
 Hey - I'm Allen Suner, a software engineer and teacher from Seattle! In the wild 
 you can find me programming, reading comic books, listening to old house records, 
@@ -40,3 +40,14 @@ to snap all of the most tourist-y photos I could. Look - here are some now!
 	<img src="/images/petra.jpg" title="The Grand Treasury in Petra" alt="The Grand Treasury in Petra">
 	<figcaption>Bet you didn't think it could snow in the desert huh?</figcaption>
 </figure>
+
+Now, I know what you're thinking - "Allen, are you seriously thinking that you can 
+keep this up for the rest of your life?" Well dear reader, I intend to keep posting 
+content for as long as I can, and at least once per week... or at least until I become 
+old and uninteresting. But, since you have made it this far down the page I think it's 
+safe to assume that you don't think that about me, and for that I thank you.
+
+Well, I'm sure you're tired of hearing me ramble on about myself, I hope that you enjoy 
+the all that I post. Stay awesome readers!
+
+-- Allen 
