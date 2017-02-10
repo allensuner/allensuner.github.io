@@ -36,7 +36,7 @@ owner:
 
 description: "A blog about tech (mostly)"
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: http://allensuner.com
 twitter_username: #twitter_username
 github_username:  allensuner
 
