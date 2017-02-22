@@ -23,7 +23,7 @@ only by how much fun I had playing a game. While that is certainly a large part
 of how I guage a game now, I like to think the years have given me a little bit more 
 of a perspective.
 
-The debate on weather games can be considered as works of art has been going on for 
+The debate on whether games can be considered as works of art has been going on for 
 decades, and though now many will agree with me, saying in a definitive tone, "yes, 
 they can be art," that is not what this post is about. No, what I want to talk to 
 about (and what is arguably more intersting) is when *I* finally realized that video 
